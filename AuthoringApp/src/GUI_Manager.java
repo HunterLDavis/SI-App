@@ -91,6 +91,7 @@ public class GUI_Manager extends JApplet
       botPanel.setLayout(new BorderLayout());
       botPanel.add(tPanel, BorderLayout.NORTH);
       
+      // Alex's Domain...
       placeHolder = new JPanel();
       placeHolder.setPreferredSize(new Dimension(APPLET_WIDTH, 60));
       placeHolder.setBackground(Color.black);
